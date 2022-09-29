@@ -428,18 +428,21 @@ footer .copy-right{
 }
 @media (max-width:767px) {
     header .product {
-         position: relative;
-         margin-right: 266px;
-         margin-bottom: 25px;
-     }
+        position: relative;
+        margin-right: 54px;
+        margin-bottom: 23px;
+        margin-top: 51px;
+        width: 69%;
+    }
  }
 @media (max-width:576px) {
-    .product {
+    header .product {
         position: relative;
-        margin-right: 256px;
-        margin-bottom: 26px;
-    
-} section.contact .blog h4{
+        margin-right: 54px;
+        margin-bottom: 23px;
+        margin-top: 51px;
+        width: 69%;
+    } section.contact .blog h4{
     margin: 21px;
 }
 
